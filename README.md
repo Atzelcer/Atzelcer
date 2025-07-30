@@ -55,13 +55,8 @@
 ## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35">
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="500">
-</div>
-
-<div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Atzelcer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" width="48%">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Atzelcer&theme=tokyonight&hide_border=true&background=0D1117&stroke=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF&sideNums=FFFFFF&currStreakNum=FFFFFF" width="48%">
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atzelcer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=10" width="60%">
 
