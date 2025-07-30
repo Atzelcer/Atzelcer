@@ -1,31 +1,31 @@
-# ⚡ NEXUS DIGITAL: Arquitecto de Futuros Impossibles ⚡
+# Hey, soy Atzel 👋
 
-<div align="center">
+> Obsesionado con el código desde que descubrí que las máquinas pueden pensar.
 
-![Matrix SVG](https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&width=800&height=60&lines=▸+SISTEMA+NEURONAL+ACTIVADO+◂;▸+DECODIFICANDO+REALIDADES+◂;▸+IA+%7C+GAMING+%7C+SIMULADORES+◂;▸+OBSESIÓN+TECNOLÓGICA+DETECTADA+◂)
+**Stack**: `C++` `C#` `C` `Python` `Java` `JavaScript` `PHP` `Kotlin` `Dart` `Go` `Rust` `TypeScript` `Swift` `Ruby`  
+**Engines**: `Unreal Engine` `Godot` `Flutter` `Unity` `React Native`  
+**Hardware**: `Arduino` `Raspberry Pi` `ESP32`
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" height="8"/>
+## 🚀 Proyectos
 
-</div>
+| Proyecto | Descripción | Tech | Link |
+|----------|-------------|------|------|
+| **GALAGA_REMASTERED** | Videojuego con IA predictiva | `C++` `Unreal Engine` | [Ver →](https://github.com/Atzelcer/GALAGA_REMASTERED) |
+| **BuildIA Team ChepeCoding** | Plataforma IA educativa (3er lugar Hackatón) | `Python` `Jupyter` | [Ver →](https://github.com/Atzelcer/BuildIA_Team_ChepeCoding) |
+| **IA_CONDUCCION_AUTOMATICA** | Sistema de conducción autónoma | `Python` `Deep Learning` | [Ver →](https://github.com/Atzelcer/IA_CONDUCCION_AUTOMATICA) |
+| **AURA-SIMULATOR** | Simulador de vehículos con IA | `Unreal Engine` `C++` | [Ver →](https://github.com/Atzelcer/CONDUCCION-AUTOMATICA---AURA-SIMULATOR) |
+
+## 📊 GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=Atzelcer&show_icons=true&theme=dark&hide_border=true" width="49%"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Atzelcer&theme=dark&hide_border=true" width="49%">
+
+## 🔗 Conecta conmigo
+
+[🔗 Facebook](https://www.facebook.com/atzel.cervantes.7/) • [🐦 X](https://x.com/Atzelcer) • [📸 Instagram](https://www.instagram.com/scatfonther/) • [💼 LinkedIn](https://www.linkedin.com/in/atzel-alan-cervantes-torres-52abb61a6/) • [🦊 GitLab](https://gitlab.com/Atzelcer) • [⚡ GitHub](https://github.com/Atzelcer)
 
 ---
 
-## 🚀 **Sobre Mi Universo Digital**
-
-> *"La tecnología no es solo mi pasión, es mi lenguaje nativo para comunicarme con el futuro"*
-
-Soy un **arquitecto de realidades digitales** obsesionado con transformar líneas de código en experiencias que trascienden lo imaginable. Mi adicción no es solo programar, sino **descifrar los patrones ocultos del universo digital** y materializarlos en soluciones que parecen magia.
-
-### 🧬 **Mi ADN Tecnológico**
-
-```javascript
-const developer = {
-    obsession: "Convertir lo imposible en inevitable",
-    mindset: "Cada bug es un portal a una mejor versión",
-    superpower: "Ver algoritmos en mis sueños",
-    philosophy: "El código es poesía, la tecnología es arte"
-};
-```
+![Visitor Count](https://komarev.com/ghpvc/?username=Atzelcer&color=blue&style=flat)
 
 ---
 
