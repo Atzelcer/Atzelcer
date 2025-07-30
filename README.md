@@ -40,21 +40,3 @@
 </div>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Atzelcer&show_icons=true&theme=dark&hide_border=true" width="49%"> <img src="https://github-readme-streak-stats.herokuapp.com?user=Atzelcer&theme=dark&hide_border=true" width="49%">
-
-## Connect <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="30">
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284094-e50ceae2-de86-4dd1-8763-d1c6f4e5ab8e.gif" width="200">
-</div>
-
-[🔗 Facebook](https://www.facebook.com/atzel.cervantes.7/) • [🐦 X](https://x.com/Atzelcer) • [📸 Instagram](https://www.instagram.com/scatfonther/) • [💼 LinkedIn](https://www.linkedin.com/in/atzel-alan-cervantes-torres-52abb61a6/) • [🦊 GitLab](https://gitlab.com/Atzelcer) • [⚡ GitHub](https://github.com/Atzelcer)
-
----
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99a7a1bb5e34.gif" width="300">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Atzelcer&color=orange&style=for-the-badge&label=EXPLORADORES+CONECTADOS)
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99a7a1bb5e34.gif" width="300">
-</div>
