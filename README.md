@@ -1,11 +1,15 @@
 # Hey, soy Atzel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=24&duration=1800&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=🚀+OBSESIÓN+TECNOLÓGICA+ACTIVADA;⚡+NEURAL+NETWORKS+ONLINE;🎮+REALITY+ENGINE+LOADING...;💻+CODE+ARCHITECT+MODE" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=🚀+CÓDIGO+OBSESSIVO+DETECTADO;⚡+SISTEMAS+NEURALES+ACTIVOS;🎮+CREANDO+REALIDADES+DIGITALES;💻+ASUS+ROG+STRIX+POWERED" alt="Typing SVG" />
 </div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="600">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=ROG%20STRIX%20GAMING&fontSize=20&fontColor=FF6B35" />
 </div>
 
 > Obsesionado con el código desde que descubrí que las máquinas pueden pensar.
