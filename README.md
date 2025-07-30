@@ -90,13 +90,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99a7a1bb5e34.gif" width="200">
-  <img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" width="200">
-  <img src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-99a7a1bb5e34.gif" width="200">
-  
-  ![Visitor Count](https://komarev.com/ghpvc/?username=Atzelcer&color=00D4FF&style=for-the-badge&label=SPACE+EXPLORERS+CONNECTED)
-  
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-f7c5c79c-2be6-4b40-88a7-cc86aba4b013.gif" width="600">
-</div>
