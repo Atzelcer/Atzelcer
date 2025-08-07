@@ -41,7 +41,7 @@
 
 | 🎮 Proyecto | 📋 Descripción | ⚡ Tech Stack | 🔗 Link |
 |-------------|----------------|---------------|---------|
-| **🤖 GALAGA_REMASTERED** | Videojuego con IA predictiva | <img src="https://skillicons.dev/icons?i=cpp,unreal&theme=dark" width="50"/> | [🚀 Ver Repo](https://github.com/Atzelcer/GALAGA_REMASTERED) |
+| **🤖 GALAGA_REMASTERED** | Videojuego con IA predictiva | <img src="https://skillicons.dev/icons?i=cpp,unreal&theme=dark" width="50"/> | [🚀 Ver Repo](https://github.com/Atzelcer/_GALAGA_REMASTERED_) |
 | **🧠 BuildIA Team ChepeCoding** | Plataforma IA educativa (🥉 3er lugar) | <img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark" width="50"/> | [🏆 Ver Proyecto](https://github.com/Atzelcer/BuildIA_Team_ChepeCoding) |
 | **🚗 IA_CONDUCCION_AUTOMATICA** | Sistema de conducción autónoma | <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" width="50"/> | [🔬 Explorar](https://github.com/Atzelcer/IA_CONDUCCION_AUTOMATICA) |
 | **🏎️ AURA-SIMULATOR** | Simulador de vehículos con IA | <img src="https://skillicons.dev/icons?i=unreal,cpp&theme=dark" width="50"/> | [⚡ Simular](https://github.com/Atzelcer/CONDUCCION-AUTOMATICA---AURA-SIMULATOR) |
