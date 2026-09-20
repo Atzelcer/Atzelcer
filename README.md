@@ -20,14 +20,14 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150">
 
-**Lenguajes**  
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,java,php,kotlin,html,css&theme=dark" />
+**Languages**  
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,cs,java,php,kotlin,html,css&perline=11&theme=dark" />
 
-**Frameworks y librerías**  
-<img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs,nestjs,express,fastapi,flask,laravel,tailwind,bootstrap&theme=dark" />
+**Frameworks & libraries**  
+<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nextjs,nodejs,nestjs,express,laravel,dotnet,tailwind,bootstrap,vite,threejs,graphql,prisma&perline=8&theme=dark" />
 
-**IA, motores y tools**  
-<img src="https://skillicons.dev/icons?i=tensorflow,opencv,unreal,godot,postgres,sqlite,git,github,linux,nginx,docker,arduino&theme=dark" />
+**AI, engines & tools**  
+<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,unreal,godot,postgres,sqlite,git,github,gitlab,linux,nginx,docker,arduino,vscode,vercel,postman,githubactions&perline=9&theme=dark" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150">
 
