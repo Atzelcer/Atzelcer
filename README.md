@@ -46,17 +46,6 @@
       <a href="https://capitalcoca.cloud"><img src="https://img.shields.io/badge/Live-capitalcoca.cloud-2ea44f?style=for-the-badge" alt="Live" /></a>
     </td>
     <td width="50%" valign="top">
-      <h3>Recetas App</h3>
-      Recipes API + React client with tests and a GitHub Actions CI/CD pipeline.
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=react,nodejs,js,githubactions&theme=dark" height="28" />
-      <br/><br/>
-      <a href="https://recetas-app-rho.vercel.app"><img src="https://img.shields.io/badge/Demo-Vercel-000000?style=for-the-badge&logo=vercel" alt="Demo" /></a>
-      <a href="https://github.com/Atzelcer/recetas-app"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="Repo" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
       <h3>Galaga Remastered</h3>
       Academic remake in C++ and Unreal Engine 5. Modular architecture, Blueprints and design patterns.
       <br/><br/>
@@ -64,6 +53,8 @@
       <br/><br/>
       <a href="https://github.com/Atzelcer/_GALAGA_REMASTERED_"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="Repo" /></a>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3>BuildIA Team</h3>
       AI + gamification learning platform. <b>3rd place</b> — BuildIA 2025 Hackathon (UCB Santa Cruz).
@@ -72,8 +63,6 @@
       <br/><br/>
       <a href="https://github.com/Atzelcer/BuildIA_Team_ChepeCoding_"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="Repo" /></a>
     </td>
-  </tr>
-  <tr>
     <td valign="top">
       <h3>Autonomous Driving · DQN</h3>
       Deep Q-Learning agent that drives in a 3D Unreal environment: avoid crashes, improve the path.
@@ -82,31 +71,15 @@
       <br/><br/>
       <a href="https://github.com/Atzelcer/IA_CONDUCCION_AUTOMATICA"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="Repo" /></a>
     </td>
-    <td valign="top">
+  </tr>
+  <tr>
+    <td valign="top" colspan="2">
       <h3>AURA Simulator</h3>
       Research sandbox to compare reinforcement-learning approaches for autonomous driving.
       <br/><br/>
       <img src="https://skillicons.dev/icons?i=py,unreal,cpp&theme=dark" height="28" />
       <br/><br/>
       <a href="https://github.com/Atzelcer/CONDUCCION-AUTOMATICA---AURA-SIMULATOR"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="Repo" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>Project Biblioteca</h3>
-      Library system with books, users, loans and auth. MVC, academic project at USFX.
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=php,js,html,css&theme=dark" height="28" />
-      <br/><br/>
-      <a href="https://github.com/Atzelcer/Project-Biblioteca"><img src="https://img.shields.io/badge/Repo-GitHub-181717?style=for-the-badge&logo=github" alt="Repo" /></a>
-    </td>
-    <td valign="top">
-      <h3>More on GitHub</h3>
-      CI/CD labs, embedded prototypes and game experiments live in the rest of the profile.
-      <br/><br/>
-      <img src="https://skillicons.dev/icons?i=git,github,linux&theme=dark" height="28" />
-      <br/><br/>
-      <a href="https://github.com/Atzelcer?tab=repositories"><img src="https://img.shields.io/badge/All_repos-Atzelcer-181717?style=for-the-badge&logo=github" alt="Repos" /></a>
     </td>
   </tr>
 </table>
