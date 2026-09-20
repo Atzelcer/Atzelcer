@@ -1,7 +1,7 @@
 # Hey, soy Atzel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Atzelcer/Atzelcer/main/stack-typing.gif" alt="Python Django React C++ TypeScript Node Unreal" width="720" height="52" />
+  <img src="https://raw.githubusercontent.com/Atzelcer/Atzelcer/main/stack-typing.gif" alt="Python Django React C++ TypeScript Node Unreal" width="760" height="64" />
 </div>
 
 <div align="center">
@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Atzelcer/Atzelcer/main/stack-wave.gif" alt="Django React NestJS Unreal TensorFlow Git" width="840" height="78" />
+  <img src="https://raw.githubusercontent.com/Atzelcer/Atzelcer/main/stack-wave.gif" alt="Iconos del stack" width="840" height="92" />
 </div>
 
 > Estudiante de Ciencias de la Computación (USFX) · Auxiliar de Docencia · Construyo software que se usa de verdad.
