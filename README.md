@@ -1,7 +1,7 @@
 # Hey, soy Atzel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=22&duration=2000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=🚀+CÓDIGO+OBSESSIVO+DETECTADO;⚡+SISTEMAS+NEURALES+ACTIVOS;🎮+CREANDO+REALIDADES+DIGITALES;💻+ASUS+ROG+STRIX+POWERED" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2200&pause=900&color=FF6B35&center=true&vCenter=true&width=720&lines=Python+·+Django+·+FastAPI+·+Flask;TypeScript+·+JavaScript+·+React+·+Next.js;Node.js+·+NestJS+·+Express;C%2B%2B+·+Unreal+Engine+·+Godot;Java+·+PHP+·+Laravel+·+Kotlin;PostgreSQL+·+TensorFlow+·+Git+·+Linux" alt="Stack" />
 </div>
 
 <div align="center">
@@ -9,23 +9,23 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=ROG%20STRIX%20GAMING&fontSize=20&fontColor=FF6B35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=PYTHON%20%20DJANGO%20%20REACT%20%20C%2B%2B&fontSize=20&fontColor=FF6B35" />
 </div>
 
-> Obsesionado con el código desde que descubrí que las máquinas pueden pensar.
+> Estudiante de Ciencias de la Computación (USFX) · Auxiliar de Docencia · Construyo software que se usa de verdad.
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150"> 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150">
 
-**Programming Languages**:  
-<img src="https://skillicons.dev/icons?i=cpp,cs,c,python,java,js,php,kotlin,dart,go,rust,ts,swift,ruby,scala,lua&theme=dark" />
+**Lenguajes**  
+<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,java,php,kotlin,html,css&theme=dark" />
 
-**Game Engines & Frameworks**:  
-<img src="https://skillicons.dev/icons?i=unreal,godot,flutter,unity,react,nodejs,vue,angular&theme=dark" />
+**Frameworks y librerías**  
+<img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs,nestjs,express,fastapi,flask,laravel,tailwind,bootstrap&theme=dark" />
 
-**Hardware & Tools**:  
-<img src="https://skillicons.dev/icons?i=arduino,raspberrypi,docker,git,vscode,linux,windows,firebase&theme=dark" />
+**IA, motores y tools**  
+<img src="https://skillicons.dev/icons?i=tensorflow,opencv,unreal,godot,postgres,sqlite,git,github,linux,nginx,docker,arduino&theme=dark" />
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150">
 
@@ -39,12 +39,12 @@
 
 <div align="center">
 
-| 🎮 Proyecto | 📋 Descripción | ⚡ Tech Stack | 🔗 Link |
+| Proyecto | Descripción | Stack | Link |
 |-------------|----------------|---------------|---------|
-| **🤖 GALAGA_REMASTERED** | Videojuego con IA predictiva | <img src="https://skillicons.dev/icons?i=cpp,unreal&theme=dark" width="50"/> | [🚀 Ver Repo](https://github.com/Atzelcer/_GALAGA_REMASTERED_) |
-| **🧠 BuildIA Team ChepeCoding** | Plataforma IA educativa (🥉 3er lugar) | <img src="https://skillicons.dev/icons?i=python,jupyter&theme=dark" width="50"/> | [🏆 Ver Proyecto](https://github.com/Atzelcer/BuildIA_Team_ChepeCoding) |
-| **🚗 IA_CONDUCCION_AUTOMATICA** | Sistema de conducción autónoma | <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" width="50"/> | [🔬 Explorar](https://github.com/Atzelcer/IA_CONDUCCION_AUTOMATICA) |
-| **🏎️ AURA-SIMULATOR** | Simulador de vehículos con IA | <img src="https://skillicons.dev/icons?i=unreal,cpp&theme=dark" width="50"/> | [⚡ Simular](https://github.com/Atzelcer/CONDUCCION-AUTOMATICA---AURA-SIMULATOR) |
+| **GALAGA_REMASTERED** | Remake en Unreal Engine | <img src="https://skillicons.dev/icons?i=cpp,unreal&theme=dark" width="50"/> | [Repo](https://github.com/Atzelcer/_GALAGA_REMASTERED_) |
+| **BuildIA Team ChepeCoding** | Plataforma IA educativa (3.er lugar) | <img src="https://skillicons.dev/icons?i=py&theme=dark" width="50"/> | [Repo](https://github.com/Atzelcer/BuildIA_Team_ChepeCoding_) |
+| **IA_CONDUCCION_AUTOMATICA** | Conducción autónoma con DQN | <img src="https://skillicons.dev/icons?i=py,tensorflow,unreal&theme=dark" width="50"/> | [Repo](https://github.com/Atzelcer/IA_CONDUCCION_AUTOMATICA) |
+| **AURA-SIMULATOR** | Simulador de vehículos con RL | <img src="https://skillicons.dev/icons?i=unreal,cpp,py&theme=dark" width="50"/> | [Repo](https://github.com/Atzelcer/CONDUCCION-AUTOMATICA---AURA-SIMULATOR) |
 
 </div>
 
@@ -74,13 +74,13 @@
 
 <div align="center">
 
-[![Facebook](https://img.shields.io/badge/🔗_Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/atzel.cervantes.7/)
-[![X](https://img.shields.io/badge/🐦_X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Atzelcer)
-[![Instagram](https://img.shields.io/badge/📸_Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/scatfonther/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/atzel.cervantes.7/)
+[![X](https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Atzelcer)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/scatfonther/)
 
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atzel-alan-cervantes-torres-52abb61a6/)
-[![GitLab](https://img.shields.io/badge/🦊_GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Atzelcer)
-[![GitHub](https://img.shields.io/badge/⚡_GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atzelcer)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atzel-alan-cervantes-torres-52abb61a6/)
+[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Atzelcer)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atzelcer)
 
 </div>
 
