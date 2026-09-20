@@ -1,7 +1,7 @@
 # Hey, soy Atzel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Atzelcer/Atzelcer/main/stack-typing.svg" alt="Stack" width="720" height="50" />
+  <img src="https://raw.githubusercontent.com/Atzelcer/Atzelcer/main/stack-typing.gif" alt="Python Django React C++ TypeScript Node Unreal" width="720" height="52" />
 </div>
 
 <div align="center">
@@ -52,35 +52,24 @@
   <img src="https://user-images.githubusercontent.com/74038190/212749695-f7c5c79c-2be6-4b40-88a7-cc86aba4b013.gif" width="600">
 </div>
 
-## <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35"> GitHub Stats <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="35">
+## GitHub Stats
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Atzelcer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF" width="48%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Atzelcer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=10" width="60%">
-
+  <img src="https://github-readme-stats.shion.dev/api?username=Atzelcer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&include_all_commits=true" height="165" alt="GitHub stats de Atzelcer" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Atzelcer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4FF&text_color=FFFFFF&langs_count=8" height="165" alt="Lenguajes más usados" />
 </div>
 
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749695-f7c5c79c-2be6-4b40-88a7-cc86aba4b013.gif" width="400">
-</div>
-
-## <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="35"> Connect <img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="35">
+## Connect
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212749190-50b4b5e6-7f62-4ed9-a1be-82bd6b3b0e5d.gif" width="600">
-</div>
 
-<div align="center">
+[![Email](https://img.shields.io/badge/Email-atzelcer%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:atzelcer@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Atzel_Cervantes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atzel-alan-cervantes-torres-52abb61a6/)
+[![GitLab](https://img.shields.io/badge/GitLab-Atzelcer-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Atzelcer)
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/atzel.cervantes.7/)
-[![X](https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Atzelcer)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Atzelcer)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/scatfonther/)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atzel-alan-cervantes-torres-52abb61a6/)
-[![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/Atzelcer)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Atzelcer)
 
 </div>
 
