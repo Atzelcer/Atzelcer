@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Atzelcer/Atzelcer/main/greeting.gif" alt="hey, I'm Atzel — nice to meet you" width="780" height="96" />
+  <img src="https://raw.githubusercontent.com/Atzelcer/Atzelcer/main/greeting.gif" alt="short English code snippets — att. Atzel" width="820" height="96" />
 </div>
 
 <div align="center">
