@@ -9,7 +9,7 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=PYTHON%20%20DJANGO%20%20REACT%20%20C%2B%2B&fontSize=20&fontColor=FF6B35" />
+  <img src="https://raw.githubusercontent.com/Atzelcer/Atzelcer/main/stack-wave.gif" alt="Django React NestJS Unreal TensorFlow Git" width="840" height="78" />
 </div>
 
 > Estudiante de Ciencias de la Computación (USFX) · Auxiliar de Docencia · Construyo software que se usa de verdad.
