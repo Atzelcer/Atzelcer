@@ -14,7 +14,7 @@
   <img src="https://raw.githubusercontent.com/Atzelcer/Atzelcer/main/stack-wave.gif" alt="Iconos del stack" width="840" height="92" />
 </div>
 
-> Computer Science student (USFX) · Teaching Assistant · I ship software people actually use.
+> Computer Science student (USFX) · I ship software people actually use.
 
 <div align="center">
 
