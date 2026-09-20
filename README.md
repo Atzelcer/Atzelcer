@@ -1,13 +1,5 @@
 <div align="center">
-
-<a href="#es"><img src="https://img.shields.io/badge/ES-Español-C0392B?style=for-the-badge" alt="Español" /></a>
-<a href="#en"><img src="https://img.shields.io/badge/EN-English-2980B9?style=for-the-badge" alt="English" /></a>
-<a href="#pt"><img src="https://img.shields.io/badge/PT-Português-27AE60?style=for-the-badge" alt="Português" /></a>
-<a href="#fr"><img src="https://img.shields.io/badge/FR-Français-8E44AD?style=for-the-badge" alt="Français" /></a>
-<a href="#it"><img src="https://img.shields.io/badge/IT-Italiano-D35400?style=for-the-badge" alt="Italiano" /></a>
-
-<img src="https://raw.githubusercontent.com/Atzelcer/Atzelcer/main/greeting.gif" alt="Saludo de Atzel en varios idiomas" width="780" height="96" />
-
+  <img src="https://raw.githubusercontent.com/Atzelcer/Atzelcer/main/greeting.gif" alt="hey, I'm Atzel — nice to meet you" width="780" height="96" />
 </div>
 
 <div align="center">
@@ -22,28 +14,7 @@
   <img src="https://raw.githubusercontent.com/Atzelcer/Atzelcer/main/stack-wave.gif" alt="Iconos del stack" width="840" height="92" />
 </div>
 
-> Estudiante de Ciencias de la Computación (USFX) · Auxiliar de Docencia · Construyo software que se usa de verdad.
-
-<p align="center" id="es">
-<code>print("hola, soy Atzel")</code><br/>
-atte. Atzel · un gusto
-</p>
-<p align="center" id="en">
-<code>console.log("hey, I'm Atzel")</code><br/>
-— Atzel · nice to meet you
-</p>
-<p align="center" id="pt">
-<code>print("oi, sou o Atzel")</code><br/>
-— Atzel · prazer em conhecer
-</p>
-<p align="center" id="fr">
-<code>echo "salut, moi c'est Atzel"</code><br/>
-— Atzel · ravi de te voir
-</p>
-<p align="center" id="it">
-<code>print("ciao, sono Atzel")</code><br/>
-— Atzel · un piacere
-</p>
+> Computer Science student (USFX) · Teaching Assistant · I ship software people actually use.
 
 <div align="center">
 
