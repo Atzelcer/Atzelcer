@@ -1,7 +1,7 @@
 # Hey, soy Atzel <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=20&duration=2200&pause=900&color=FF6B35&center=true&vCenter=true&width=720&lines=Python+·+Django+·+FastAPI+·+Flask;TypeScript+·+JavaScript+·+React+·+Next.js;Node.js+·+NestJS+·+Express;C%2B%2B+·+Unreal+Engine+·+Godot;Java+·+PHP+·+Laravel+·+Kotlin;PostgreSQL+·+TensorFlow+·+Git+·+Linux" alt="Stack" />
+  <img src="https://raw.githubusercontent.com/Atzelcer/Atzelcer/main/stack-typing.svg" alt="Stack" width="720" height="50" />
 </div>
 
 <div align="center">
