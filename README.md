@@ -14,20 +14,32 @@
   <img src="https://raw.githubusercontent.com/Atzelcer/Atzelcer/main/stack-wave.gif" alt="Iconos del stack" width="840" height="92" />
 </div>
 
-> Computer Science student (USFX) · I ship software people actually use.
+> Computer Science Engineer (USFX) · I ship software people actually use.
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150">
 
-**Languages**  
-<img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,cs,java,php,kotlin,html,css&perline=11&theme=dark" />
-
-**Frameworks & libraries**  
-<img src="https://skillicons.dev/icons?i=django,flask,fastapi,react,nextjs,nodejs,nestjs,express,laravel,dotnet,tailwind,bootstrap,vite,threejs,graphql,prisma&perline=8&theme=dark" />
-
-**AI, engines & tools**  
-<img src="https://skillicons.dev/icons?i=tensorflow,sklearn,opencv,unreal,godot,postgres,sqlite,git,github,gitlab,linux,nginx,docker,arduino,vscode,vercel,postman,githubactions&perline=9&theme=dark" />
+<table>
+  <tr>
+    <td align="center">
+      <b>Languages</b><br/>
+      <img src="https://skillicons.dev/icons?i=py,js,ts,cpp,c,cs,java,php,kotlin,html,css&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>Frameworks & libraries</b><br/>
+      <img src="https://skillicons.dev/icons?i=django,react,nextjs,nodejs,nestjs,express,fastapi,flask,laravel,tailwind,bootstrap&theme=dark" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <b>AI, engines & tools</b><br/>
+      <img src="https://skillicons.dev/icons?i=tensorflow,opencv,unreal,godot,postgres,sqlite,git,github,linux,nginx,docker,arduino&theme=dark" />
+    </td>
+  </tr>
+</table>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="150">
 
